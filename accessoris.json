@@ -1,0 +1,42 @@
+{
+    "accessoris":
+      [
+        {
+          "id": 1,
+          "harga": 5999000,
+          "nama": "Apple Wach Series 7",
+          "kode": "awp7",
+          "gambar" : "apw7.jpg",
+          "launch" : "Released  : 2021, October 15",
+          "body" : "Body  : 45 x 38 x 10.7 mm, 42.3 g",
+          "display" : "Display  : Retina LTPO OLED, 1.9 inches, 484 x 396 pixels",
+          "processor" : "OS  : watchOS 8.0, upgradable to 8.1",
+          "memory" : "Battery  : Li-Ion 309 mAh (1.19 Wh), Wireless Charging"
+        },
+        {
+            "id": 2,
+            "harga": 4499000,
+            "nama": "Apple Wach SE",
+            "kode": "awse",
+            "gambar" : "awse.jpg",
+            "launch" : "Released  : 2020, September 18",
+            "body" : "Body  : 44 x 38 x 10.4 mm, 36.4 g",
+            "display" : "Display  : Retina LTPO OLED, 1.78 inches, 448 x 368 pixels",
+            "processor" : "OS  : watchOS 7.0, upgradable to 8.1",
+            "memory" : "Battery  : Li-Ion 309 mAh (1.19 Wh), Wireless Charging"
+        },
+        {
+            "id": 3,
+            "harga": 3999000,
+            "nama": "Apple Wach Series 6",
+            "kode": "awp6",
+            "gambar" : "apw6.jpg",
+            "launch" : "Released  : 2020, September 18",
+            "body" : "Body  : 44 x 38 x 10.4 mm, 36.4 g",
+            "display" : "Display  : Retina LTPO OLED, 1.78 inches, 448 x 368 pixels",
+            "processor" : "OS  : watchOS 7.0, upgradable to 8.1",
+            "memory" : "Battery  : Li-Ion 309 mAh (1.19 Wh), Wireless Charging"
+        }
+        ]
+    
+    }
